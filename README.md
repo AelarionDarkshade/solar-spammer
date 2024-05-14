@@ -7,6 +7,11 @@ a **Free** Fast discord dm spammer / dm flooder in python that bypasses discord 
 # Safe?
 **Yes this exe is safe you can scan it in tria.ge (trusted website)**
 
+# requirements
+**this tool requires atleast 10 tokens (40 tokens shown spamming in the showcase video)**
+
+**the user you are spamming must be in the server that the bots are in**
+
 # How to
 **download the zip**
 
