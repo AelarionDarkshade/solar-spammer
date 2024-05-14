@@ -1,5 +1,5 @@
 # solar-spammer
-a **Free** Fast discord dm spammer / dm flooder in python that bypasses discord rate limit. (Not batchfile its python, it says that because of start.bat)
+a **Free** Fast discord dm spammer / dm flooder in python that bypasses discord rate limit.
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
