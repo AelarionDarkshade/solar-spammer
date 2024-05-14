@@ -12,6 +12,8 @@ a **Free** Fast discord dm spammer / dm flooder in python that bypasses discord 
 
 **the user you are spamming must be in the server that the bots are in**
 
+**must be on a pc / laptop**
+
 # How to
 **download the zip**
 
