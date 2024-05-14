@@ -1,6 +1,9 @@
 # solar-spammer
 a **Free** Fast discord dm spammer in python that bypasses discord rate limit.
 
+# Disclaimer
+**THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
+
 # Safe?
 **Yes this exe is safe you can scan it in tria.ge (trusted website)**
 
