@@ -1,5 +1,5 @@
 # Update 1
 **SolarV2 Features: Themes, Usernames, faster, dm spam (obv), And more coming soon next update!!**
 
-# Update 2
-**SolarV3 Features: Faster, more handling, bot invites(new option)**
+# NO MORE UPDATES
+**THIS TOOL WONT BE UPDATED ANYMORE, SRC CODE SOON..**
